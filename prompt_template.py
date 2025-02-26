@@ -37,4 +37,3 @@ system_template_text = """你是小红书爆款写作专家，请你遵循以下
 """
 
 user_template_text = "{theme}"
-#分别吧system prompt和User Prompt定义好，

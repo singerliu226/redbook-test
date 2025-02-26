@@ -1,4 +1,4 @@
-from pydantic import BaseModel,Field#Field用于给字段添加额外信息
+from langchain_core.pydantic_v1 import BaseModel, Field
 from typing import List
 
 class Xiaohongshu(BaseModel):

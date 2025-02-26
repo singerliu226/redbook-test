@@ -1,4 +1,5 @@
 import streamlit as st
+from utils import generate_xiaohongshu
 
 
 st.header("爆款小红书AI写作助手 ✏️")
